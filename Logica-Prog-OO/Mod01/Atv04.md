@@ -1,3 +1,4 @@
+```
 Nome caracter
 Endereço caracter
 Cidade caracter
@@ -49,3 +50,4 @@ escreva("Nome do pai: ", Nome do pai)
 escreva("Nome da mãe: ", Nome da mãe)
 escreva("Peso: ", Peso)
 escreva("Renda bruta: ", Renda bruta)
+```
